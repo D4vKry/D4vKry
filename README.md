@@ -28,12 +28,9 @@
 [+] Focus     : Offensive Security / Red Team
 [+] Playing   : CTFs @ Hack The Box
 [+] Writing   : Write-ups, security & hardening guides
-[+] Education : CFGS ASIR  |  CFGM SMR
-[+] OS        : Arch Linux (pentesting edition) btw
+[+] Education : CFGS ASIR  |  CFGM SMR  |  CFGE CETI
+[+] OS        : Arch Linux (pentesting edition) btw ;)
 
-┌──(D4vKry㉿arch)-[~]
-└─$ echo $MOTTO
-"Try Harder."
 ```
 
 - Me apasiona la **ciberseguridad ofensiva**: enumeración, explotación y escalada de privilegios.
