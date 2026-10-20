@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://d4vkry.github.io/"><img src="https://img.shields.io/badge/Blog-d4vkry.github.io-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"/></a>&nbsp;&nbsp;
   <a href="https://app.hackthebox.com/public/users/2410065"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB"/></a>&nbsp;&nbsp;
-  <a href="https://profile.hackthebox.com/profile/019e3fd3-6ad1-718e-a1c3-1b36a8e14c97"><img src="https://img.shields.io/badge/HTB%20Profile-1e1b4b?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB Profile"/></a>
+  <a href="https://es.linkedin.com/in/david-veiga-otero-160036257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -28,9 +28,8 @@
 [+] Focus     : Offensive Security / Red Team
 [+] Playing   : CTFs @ Hack The Box
 [+] Writing   : Write-ups, security & hardening guides
-[+] Education : CFGS ASIR  |  CFGM SMR  |  CFGE CETI
+[+] Education : CFGS ASIR  |  CFGM SMR
 [+] OS        : Arch Linux (pentesting edition) btw ;)
-
 ```
 
 - Me apasiona la **ciberseguridad ofensiva**: enumeración, explotación y escalada de privilegios.
